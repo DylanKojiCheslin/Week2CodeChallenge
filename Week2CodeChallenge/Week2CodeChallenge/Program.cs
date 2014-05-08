@@ -125,6 +125,7 @@ namespace Week2CodeChallenge
             LetterCounter('n', "Never gonna give you up. Never gonna let you down.");
             LetterCounter('s', "Sally sells seashells down by the seashore. She's from Sussex.");
             TextStats("Don't talk, Do.");
+            Console.ReadKey();
         }
     }
 }
